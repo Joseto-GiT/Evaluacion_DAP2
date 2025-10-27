@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tienda de Ropa</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="rut">RUT</string>
+    <string name="catalog">Catálogo</string>
+    <string name="cart">Carrito</string>
+    <string name="back_office">Back Office</string>
+    <string name="add_product">Agregar Producto</string>
+    <string name="product_detail">Detalle del Producto</string>
+    <string name="purchase_success">Compra Exitosa</string>
+    <string name="purchase_failed">Compra Rechazada</string>
+    <string name="price">Precio</string>
+    <string name="description">Descripción</string>
+    <string name="add_to_cart">Agregar al Carrito</string>
+    <string name="buy_now">Comprar Ahora</string>
+    <string name="continue_shopping">Continuar Comprando</string>
+    <string name="total">Total</string>
+    <string name="checkout">Finalizar Compra</string>
+    <string name="categories">Categorías</string>
+    <string name="tshirts">Camisetas</string>
+    <string name="jeans">Jeans</string>
+    <string name="caps">Gorras</string>
+    <string name="shoes">Zapatos</string>
+    <string name="invalid_rut">RUT inválido</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="required_field">Campo requerido</string>
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="purchase_successful">¡Compra realizada con éxito!</string>
+    <string name="purchase_failed_message">La compra no pudo ser procesada</string>
+</resources>
